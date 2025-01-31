@@ -62,4 +62,5 @@ webbrowser.open(map_file)
 
 print("Coordinates and distances from input coordinate (in km) sorted by distance:")
 for distance, coord in distances:
-    print(f"Coordinate: {coord}, Distance: {distance:.2f} km")
+    coord_float = tuple(map(float, coord))
+    print(f"Coordinate: {coord_float}, Distance: {distance:.2f} km")
