@@ -1,63 +1,62 @@
 CoordsBot
 APP
- — Today at 10:29 AM
+ — Today at 4:43 PM
 Found these Beldum:
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 52 minutes) :I_: 42.22 (5/8/6) :C_: 214 :L_: 9 :ms_: Take Down / Iron Head -27.463876,153.011493
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 58 minutes) :I_: 71.11 (14/10/8) :C_: 317 :L_: 12 :ms_: Take Down / Iron Head -23.366245,150.490634
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 51 minutes) :I_: 64.44 (10/4/15) :C_: 794 :L_: 32 :ms_: Take Down / Iron Head -27.590033,152.994017
+🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 53 minutes) :I_: 73.33 (7/14/12) :C_: 201 :L_: 8 :ms_: Take Down / Iron Head 33.146226,-96.119692
 
 
-🇹🇼 :beldum: :shiny: :genderless: (:dsp: in 48 minutes) :I_: 53.33 (6/11/7) :C_: 784 :L_: 34 :ms_: Take Down / Iron Head 25.023311,121.504927
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 53 minutes) :I_: 60.00 (3/10/14) :C_: 706 :L_: 29 :ms_: Take Down / Iron Head -33.329875,151.437027
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 42.22 (9/5/5) :C_: 662 :L_: 27 :ms_: Take Down / Iron Head -33.371350,151.488378
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 52 minutes) :I_: 22.22 (5/3/2) :C_: 439 :L_: 19 :ms_: Take Down / Iron Head -37.560924,144.723913
 
 
-🇦🇺 :beldum: :shiny: :genderless: XL (:dsp: in 45 minutes) :I_: 28.89 (0/11/2) :C_: 520 :L_: 23 :ms_: Take Down / Iron Head -38.071663,145.278198
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 51 minutes) :I_: 48.89 (11/9/2) :C_: 197 :L_: 8 :ms_: Take Down / Iron Head -37.795020,144.951676
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 45 minutes) :I_: 64.44 (15/11/3) :C_: 656 :L_: 25 :ms_: Take Down / Iron Head 39.921862,-83.046164
+🇦🇺 :beldum: :shiny: :genderless: XS (:dsp: in 50 minutes) :I_: 26.67 (6/3/3) :C_: 85 :L_: 4 :ms_: Take Down / Iron Head -37.818416,144.994790
 Only you can see this • Dismiss message
 CoordsBot
 APP
- — Today at 10:29 AM
-🇯🇵 :beldum: :shiny: :genderless: XS (:dsp: in 45 minutes) :I_: 62.22 (10/14/4) :C_: 381 :L_: 15 :ms_: Take Down / Iron Head 35.744655,139.723173
+ — Today at 4:43 PM
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 50 minutes) :I_: 22.22 (8/1/1) :C_: 11 :L_: 1 :ms_: Take Down / Iron Head -37.904247,145.038529
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 44 minutes) :I_: 46.67 (7/7/7) :C_: 166 :L_: 7 :ms_: Take Down / Iron Head -27.599051,153.067607
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 49 minutes) :I_: 46.67 (4/6/11) :C_: 163 :L_: 7 :ms_: Take Down / Iron Head -37.908682,145.069280
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 40 minutes) :I_: 73.33 (9/11/13) :C_: 775 :L_: 30 :ms_: Take Down / Iron Head 33.134632,-96.099077
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 49 minutes) :I_: 68.89 (11/5/15) :C_: 285 :L_: 11 :ms_: Take Down / Iron Head -37.544248,144.717908
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 32 minutes) :I_: 84.44 (13/14/11) :C_: 699 :L_: 26 :ms_: Take Down / Iron Head 32.450134,-81.782675
+🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 47 minutes) :I_: 11.11 (2/0/3) :C_: 490 :L_: 22 :ms_: Take Down / Iron Head 40.037051,-75.142088
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 30 minutes) :I_: 44.44 (10/5/5) :C_: 247 :L_: 10 :ms_: Take Down / Iron Head -37.820824,144.983170
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 47 minutes) :I_: 57.78 (6/12/8) :C_: 568 :L_: 23 :ms_: Take Down / Iron Head -33.873871,151.186705
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 29 minutes) :I_: 28.89 (4/4/5) :C_: 134 :L_: 6 :ms_: Take Down / Iron Head -27.664156,153.008273
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 53.33 (6/12/6) :C_: 294 :L_: 12 :ms_: Take Down / Iron Head -37.794732,144.975769
 Only you can see this • Dismiss message
 CoordsBot
 APP
- — Today at 10:29 AM
-🇹🇼 :beldum: :shiny: :genderless: (:dsp: in 29 minutes) :I_: 86.67 (11/15/13) :C_: 814 :L_: 31 :ms_: Take Down / Iron Head 25.073121,121.510280
+ — Today at 4:43 PM
+🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 22.22 (2/5/3) :C_: 635 :L_: 28 :ms_: Take Down / Iron Head 40.038179,-75.185591
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 28 minutes) :I_: 40.00 (13/4/1) :C_: 648 :L_: 26 :ms_: Take Down / Iron Head 40.143899,-82.909603
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 55.56 (3/10/12) :C_: 701 :L_: 29 :ms_: Take Down / Iron Head -33.334607,151.439215
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 28 minutes) :I_: 35.56 (4/4/8) :C_: 282 :L_: 12 :ms_: Take Down / Iron Head 44.887715,-123.050991
+🇦🇺 :beldum: :shiny: :genderless: XL (:dsp: in 44 minutes) :I_: 66.67 (5/14/11) :C_: 249 :L_: 10 :ms_: Take Down / Iron Head -37.569687,144.729662
 
 
-🇯🇵 :beldum: :shiny: :genderless: (:dsp: in 27 minutes) :I_: 84.44 (14/9/15) :C_: 812 :L_: 30 :ms_: Take Down / Iron Head 35.749917,139.626442
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 44 minutes) :I_: 31.11 (5/6/3) :C_: 610 :L_: 26 :ms_: Take Down / Iron Head -33.888407,151.148103
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 26 minutes) :I_: 44.44 (4/7/9) :C_: 188 :L_: 8 :ms_: Take Down / Iron Head 33.912540,-117.267474
+🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 44 minutes) :I_: 24.44 (9/0/2) :C_: 87 :L_: 4 :ms_: Take Down / Iron Head -34.038396,151.087305
 
 
-🇩🇰 :beldum: :shiny: :genderless: XS (:dsp: in 25 minutes) :I_: 62.22 (9/10/9) :C_: 279 :L_: 11 :ms_: Take Down / Iron Head 55.421083,10.404303
-Only you can see this • Dismiss message
+🇦🇺 :beldum: :shiny: :genderless: XXL (:dsp: in 43 minutes) :I_: 33.33 (1/14/0) :C_: 595 :L_: 26 :ms_: Take Down / Iron Head -33.950085,151.235335
