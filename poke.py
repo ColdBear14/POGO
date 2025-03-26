@@ -51,7 +51,8 @@ folium.Marker(location=input_coordinate, popup="Input Coordinate", icon=folium.I
 
 # Add markers for each extracted coordinate
 for distance, coord in distances:
-    folium.Marker(location=coord, popup=f"Distance: {distance:.2f} km").add_to(m)
+    coord_float = tuple(map(float, coord))
+    folium.Marker(location=coord, popup=f"Coordinate: {coord_float}, Distance: {distance:.2f} km").add_to(m)
 
 # Save the map to an HTML file
 map_file = "map.html"

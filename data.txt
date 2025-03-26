@@ -1,62 +1,51 @@
-CoordsBot
-APP
- — Today at 4:43 PM
-Found these Beldum:
+Found these Pikachu with min IV 90.0% within 5.0km of 40.754879,-73.988426:
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 58 minutes) :I_: 71.11 (14/10/8) :C_: 317 :L_: 12 :ms_: Take Down / Iron Head -23.366245,150.490634
+🇺🇸 :pikachu_gotour_2025_a_02: (Gotour 2025 A 02) :shiny: :female: (:dsp: in 41 minutes) :I_: 93.33 (15/14/13) :C_: 860 :L_: 35 :ms_: Quick Attack / Wild Charge 40.774900,-73.990119
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 53 minutes) :I_: 73.33 (7/14/12) :C_: 201 :L_: 8 :ms_: Take Down / Iron Head 33.146226,-96.119692
+🇺🇸 :pikachu_gotour_2025_a_02: (Gotour 2025 A 02) :shiny: :male: (:dsp: in 36 minutes) :I_: 97.78 (14/15/15) :C_: 638 :L_: 24 :ms_: Quick Attack / Discharge 40.754232,-74.006555
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 53 minutes) :I_: 60.00 (3/10/14) :C_: 706 :L_: 29 :ms_: Take Down / Iron Head -33.329875,151.437027
+🇺🇸 :pikachu_gotour_2025_a: (Gotour 2025 A) :shiny: :female: (:dsp: in 31 minutes) :I_: 95.56 (15/15/13) :C_: 181 :L_: 7 :ms_: Quick Attack / Discharge 40.789776,-73.970468
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 52 minutes) :I_: 22.22 (5/3/2) :C_: 439 :L_: 19 :ms_: Take Down / Iron Head -37.560924,144.723913
+🇺🇸 :pikachu_gotour_2025_b_02: (Gotour 2025 B 02) :shiny: :female: (:dsp: in 21 minutes) :I_: 91.11 (12/15/14) :C_: 677 :L_: 26 :ms_: Quick Attack / Wild Charge 40.752864,-73.996363
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 51 minutes) :I_: 48.89 (11/9/2) :C_: 197 :L_: 8 :ms_: Take Down / Iron Head -37.795020,144.951676
-
-
-🇦🇺 :beldum: :shiny: :genderless: XS (:dsp: in 50 minutes) :I_: 26.67 (6/3/3) :C_: 85 :L_: 4 :ms_: Take Down / Iron Head -37.818416,144.994790
+🇺🇸 :pikachu_gotour_2025_b_02: (Gotour 2025 B 02) :shiny: :female: (:dsp: in 14 minutes) :I_: 97.78 (14/15/15) :C_: 664 :L_: 25 :ms_: Thunder Shock / Discharge 40.766423,-73.989660
 Only you can see this • Dismiss message
 CoordsBot
 APP
- — Today at 4:43 PM
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 50 minutes) :I_: 22.22 (8/1/1) :C_: 11 :L_: 1 :ms_: Take Down / Iron Head -37.904247,145.038529
+ — Today at 10:48 PM
+🇺🇸 :pikachu_gotour_2025_a: (Gotour 2025 A) :shiny: :female: (:dsp: in 12 minutes) :I_: 100.00 (15/15/15) :C_: 589 :L_: 22 :ms_: Quick Attack / Discharge 40.773028,-73.979651
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 49 minutes) :I_: 46.67 (4/6/11) :C_: 163 :L_: 7 :ms_: Take Down / Iron Head -37.908682,145.069280
+🇺🇸 :pikachu_gotour_2025_b: (Gotour 2025 B) :shiny: :male: (:dsp: in 11 minutes) :I_: 91.11 (12/15/14) :C_: 834 :L_: 34 :ms_: Thunder Shock / Wild Charge 40.728876,-74.011788
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 49 minutes) :I_: 68.89 (11/5/15) :C_: 285 :L_: 11 :ms_: Take Down / Iron Head -37.544248,144.717908
+🇺🇸 :pikachu_gotour_2025_b_02: (Gotour 2025 B 02) :shiny: :male: (:dsp: in 9 minutes) :I_: 91.11 (14/12/15) :C_: 151 :L_: 6 :ms_: Quick Attack / Wild Charge 40.787821,-73.952376
 
 
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 47 minutes) :I_: 11.11 (2/0/3) :C_: 490 :L_: 22 :ms_: Take Down / Iron Head 40.037051,-75.142088
+🇺🇸 :pikachu_gotour_2025_b_02: (Gotour 2025 B 02) :shiny: :female: (:dsp: in 8 minutes) :I_: 93.33 (15/12/15) :C_: 740 :L_: 28 :ms_: Thunder Shock / Discharge 40.743331,-73.989568
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 47 minutes) :I_: 57.78 (6/12/8) :C_: 568 :L_: 23 :ms_: Take Down / Iron Head -33.873871,151.186705
-
-
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 53.33 (6/12/6) :C_: 294 :L_: 12 :ms_: Take Down / Iron Head -37.794732,144.975769
+🇺🇸 :pikachu_gotour_2025_b_02: (Gotour 2025 B 02) :shiny: :male: (:dsp: in 7 minutes) :I_: 91.11 (14/12/15) :C_: 603 :L_: 23 :ms_: Quick Attack / Discharge 40.789363,-73.951825
 Only you can see this • Dismiss message
 CoordsBot
 APP
- — Today at 4:43 PM
-🇺🇸 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 22.22 (2/5/3) :C_: 635 :L_: 28 :ms_: Take Down / Iron Head 40.038179,-75.185591
+ — Today at 10:48 PM
+🇺🇸 :pikachu_gotour_2025_b: (Gotour 2025 B) :shiny: :female: (:dsp: in 7 minutes) :I_: 95.56 (14/15/14) :C_: 153 :L_: 6 :ms_: Thunder Shock / Wild Charge 40.744660,-73.991864
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 46 minutes) :I_: 55.56 (3/10/12) :C_: 701 :L_: 29 :ms_: Take Down / Iron Head -33.334607,151.439215
+🇺🇸 :pikachu_gotour_2025_a_02: (Gotour 2025 A 02) :shiny: :male: (:dsp: in 7 minutes) :I_: 91.11 (15/12/14) :C_: 368 :L_: 14 :ms_: Thunder Shock / Wild Charge 40.756017,-73.997373
 
 
-🇦🇺 :beldum: :shiny: :genderless: XL (:dsp: in 44 minutes) :I_: 66.67 (5/14/11) :C_: 249 :L_: 10 :ms_: Take Down / Iron Head -37.569687,144.729662
+🇺🇸 :pikachu_gotour_2025_a_02: (Gotour 2025 A 02) :shiny: :male: XS (:dsp: in 6 minutes) :I_: 93.33 (14/14/14) :C_: 474 :L_: 18 :ms_: Thunder Shock / Thunderbolt 40.783274,-73.959999
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 44 minutes) :I_: 31.11 (5/6/3) :C_: 610 :L_: 26 :ms_: Take Down / Iron Head -33.888407,151.148103
+🇺🇸 :pikachu_gotour_2025_b: (Gotour 2025 B) :shiny: :female: (:dsp: in 5 minutes) :I_: 93.33 (14/14/14) :C_: 606 :L_: 23 :ms_: Quick Attack / Discharge 40.786301,-73.968264
 
 
-🇦🇺 :beldum: :shiny: :genderless: (:dsp: in 44 minutes) :I_: 24.44 (9/0/2) :C_: 87 :L_: 4 :ms_: Take Down / Iron Head -34.038396,151.087305
-
-
-🇦🇺 :beldum: :shiny: :genderless: XXL (:dsp: in 43 minutes) :I_: 33.33 (1/14/0) :C_: 595 :L_: 26 :ms_: Take Down / Iron Head -33.950085,151.235335
+🇺🇸 :pikachu_gotour_2025_b: (Gotour 2025 B) :shiny: :male: (:dsp: in 4 minutes) :I_: 91.11 (15/13/13) :C_: 342 :L_: 13 :ms_: Quick Attack / Thunderbolt 40.776247,-73.975152
+Only you can see this • Dismiss message
